@@ -1,4 +1,5 @@
 Structured Literacy Resources
+
 This repository contains curated materials and lesson plans designed to support students through Structured Literacy—an explicit, systematic, and diagnostic approach to reading instruction.
 
 Instructional Sequence
